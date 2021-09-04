@@ -17,3 +17,6 @@ This is example is to show different partso the git repository and various comma
 This is a simple web project,deployement can be on any web server or local file system.
 
 ## How To Contribute
+
+check for any changes using diff tool.
+adding another change.
