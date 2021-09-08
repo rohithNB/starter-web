@@ -24,4 +24,4 @@ check for any changes using diff tool.
 adding another change.
 
 ###Copyright
-2014 Git.Training
+2014 Git.Training.All rights reserved.
